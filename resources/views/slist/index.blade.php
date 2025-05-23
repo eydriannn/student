@@ -7,7 +7,7 @@
                 <div class="card">
                     <div class="card-body">
                         <p class="card-text">
-                            {{_("WELCOME")}}
+                            {{_("Student Management")}}
                         </p>
                     </div>
                 </div>
